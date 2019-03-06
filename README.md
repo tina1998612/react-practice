@@ -1,3 +1,10 @@
+# Practicing React 
+
+## Recommended videos 
+1. React basics: https://www.youtube.com/watch?v=DLX62G4lc44
+1. React router: https://www.youtube.com/watch?v=91F8reC8kvo
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
